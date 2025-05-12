@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @filssmart
-- 👀 I’m passionate about Intelligent Transportation Systems [ITS] for Smart Cities.
-- 🌱 I’m currently learning Masters degree in Computer Science '2025' | Civil Engineering | Project planning & Management | Geospatial Informations Systems.
+- 👀 I’m passionate about Intelligent Transportation Systems [ITS] for Smart Cities designing ITS end-end edgeware system.
+- 🌱 I’m Masters degree in Computer Science | Bachelors degree in Civil Engineering | PGD in Project planning & Management | TOT in Geospatial Informations Systems.
 - 💞️ I’m looking to collaborate on ITS projects
 - 📫 How to reach me fils.organ@gmail.com
 - 😄 Pronouns: He/His/Him
