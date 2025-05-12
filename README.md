@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @filssmart
-- 👀 I’m passionate about Intelligent Transportation Systems [ITS] for Smart Cities and designing ITS end-end edgeware system.
+- 👀 I’m passionate about Intelligent Transportation Systems [ITS] for Smart Cities and designing ITS end-end edgeware systems.
 - 🌱 I’m Masters degree in Computer Science | Bachelors degree in Civil Engineering | PGD in Project planning & Management | TOT in Geospatial Informations Systems.
 - 💞️ I’m looking to collaborate on ITS projects
 - 📫 How to reach me fils.organ@gmail.com
